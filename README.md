@@ -1,16 +1,14 @@
-## Hi there 👋
+#### Nice to meet you 👋 I'm Andy! 
 
-<!--
-**andrei-lazarov/andrei-lazarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I break things to understand how they work 🙂
 
-Here are some ideas to get you started:
+- Zigbee, Android, Linux, IoT, embedded systems
+- Reverse-engineering, packet captures, documentation 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Let's collaborate! 💬
+
+| Platform | ID                                                              |
+| :------- | :-------------------------------------------------------------- |
+| Email    | andrei_lazarov@yahoo.com                                        |
+| LinkedIn | [lazarov-andrei](https://www.linkedin.com/in/lazarov-andrei/)   |
+| Discord  | [andrei.lazarov](https://discord.com/users/1063119414741971024) |
