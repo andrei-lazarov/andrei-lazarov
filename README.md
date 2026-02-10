@@ -1,9 +1,8 @@
 #### Nice to meet you 👋 I'm Andy! 
 
-I break things to understand how they work 🙂
+I like: Zigbee, Android, Linux, IoT, embedded systems
 
-- Zigbee, Android, Linux, IoT, embedded systems
-- Reverse-engineering, packet captures, documentation 
+I do: problem solving, reverse-engineering, packet captures, documentation 
 
 #### Let's collaborate! 💬
 
