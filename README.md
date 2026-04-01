@@ -1,5 +1,6 @@
-#### Nice to meet you 👋 I'm Andy! 
+<h3 align="center">Nice to meet you 👋 I'm Andy!</h2>
 
-I like: Zigbee, Android, Linux, IoT, embedded systems
+---
 
-I do: problem solving, reverse-engineering, packet captures, documentation 
+<p align="center">Zigbee · Android · Linux · IoT · embedded systems</p>
+<p align="center">problem solving · reverse-engineering · packet captures · documentation</p>
